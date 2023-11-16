@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0370b1ea3c1112d41a5405f7def249b9, type: 3}
+  m_Name: Italiano
+  m_EditorClassIdentifier: 
+  languageDictionary:
+  - id: NEW_GAME
+    translatedString: Nuova partita
+    openInEditor: 1
+  - id: QUIT_GAME
+    translatedString: Esci
+    openInEditor: 1
+  - id: LOAD_GAME
+    translatedString: Carica
+    openInEditor: 1
+  - id: ENGLISH_BUTTON
+    translatedString: Inglese
+    openInEditor: 0
+  - id: ITALIAN_BUTTON
+    translatedString: Italiano
+    openInEditor: 0
+  - id: SPANISH_BUTTON
+    translatedString: Spagnolo
+    openInEditor: 1
